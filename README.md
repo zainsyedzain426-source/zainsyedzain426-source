@@ -34,10 +34,10 @@ AI-powered satellite telemetry anomaly detection using Random Forest and physics
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/syed-zain-naqvi-424160427" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainsyedzain426@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail"/>
   </a>
 </p>
