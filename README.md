@@ -1,5 +1,3 @@
-        [ BEAUTIFUL AI / SPACE BANNER ]
-
 Hello :)
 
 Short 2-line introduction
