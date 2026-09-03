@@ -1,32 +1,50 @@
-Hello :)
+<p align="center">
+  <img src="./banner.svg" width="100%">
+</p>
 
-Short 2-line introduction
+## Hello :)
 
-🔭 Current work
-🌱 Learning
-🚀 Interest
+I'm a Computer Engineering student aspiring to become an AI Engineer for Space Systems.
 
-────────────────────────────
+- 🔭 Working on satellite telemetry analysis and anomaly detection.
+- 🌱 Learning AI/ML and intelligent space systems.
+- 🚀 Interested in applying AI to real-world aerospace problems.
 
-🛠️ Tech Stack
+---
 
-────────────────────────────
+## 🛠️ Tech Stack
 
-🚀 Featured Projects
+`Python` `Machine Learning` `TensorFlow` `Scikit-learn`
+`NumPy` `Pandas` `Matplotlib` `Git` `GitHub`
 
-🛰️ Satellite Telemetry Analyzer
-🤖 AI Satellite Anomaly Detection
+---
 
-────────────────────────────
+## 🚀 Featured Projects
 
-<h2>🌐 Connect With Me</h2>
+### 🛰️ Satellite Telemetry Analyzer
 
-<p>
-  <a href="www.linkedin.com/in/syed-zain-naqvi-424160427">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+A Python-based system for satellite telemetry monitoring, anomaly detection, health assessment, mission reporting, and data visualization.
 
-  <a href="mailto:zainsyedzain426@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+### 🤖 AI Satellite Anomaly Detection
+
+AI-powered satellite telemetry anomaly detection using Random Forest and physics-based safety rules.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/zainsyedzain426-source">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:zainsyedzain426@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
